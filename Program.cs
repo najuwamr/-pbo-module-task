@@ -166,7 +166,7 @@ class Program
         Gajah gajah = new Gajah("Gajah Kalimantan", 10, 4);
         Ular ular = new Ular("Ular Piton", 3, 2.5);
         Buaya buaya = new Buaya("Buaya Muara", 7, 3.6);
-        Reptil reptil = new Reptil("Tokek", 1, 0.5);
+        Reptil reptil = new Reptil("Buaya", 1, 0.5);
 
         //menambahkan hewan-hewan ke kebun binatang
         BonBinPBO.TambahHewan(singa);
