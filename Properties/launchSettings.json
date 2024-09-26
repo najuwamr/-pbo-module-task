@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Bonbin PBO": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
